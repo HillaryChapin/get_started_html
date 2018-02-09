@@ -56,6 +56,10 @@ align-items: center;
 
 nav {
   margin-left: 20pt;
+  color: blue;
+  border: 1px;
+  border-style: solid;
+  background-color: yellow;
 }
 
 nav p {
